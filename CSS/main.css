@@ -3,8 +3,8 @@
     padding:0;
     }
     #container
-    { border:1px solid blue;
-    background:rgb(174, 174, 3);
+    { border:1px solid rgb(255, 196, 0);
+    background:rgb(141, 0, 26);
     float:left;
     top: 60px;
     text-indent:0px;
@@ -23,14 +23,14 @@
     #container ul li a
     {
     display:block;
-    color:rgb(96, 175, 255);
+    color:rgb(255, 196, 0);
     font-weight:bold;
     text-decoration:none;
 padding:.3em 6px;
 }
 #container li a:hover
-{color:rgb(145, 3, 3);
-background:rgb(240, 226, 199);
+{color:rgb(141, 0, 26);
+background:rgb(255, 196, 0);
 }
 #container li ul
 {position:absolute;
